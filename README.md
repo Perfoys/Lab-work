@@ -1,2 +1,2 @@
-# Lab-work
-Repository for lab
+# JS code learning 
+Repository for js scipts files
